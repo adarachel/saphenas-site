@@ -23,16 +23,26 @@ export const Portfolio = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
 
-          <Row className="sec_sp">
           {/* <Col lang="5">
             <h3 className="color_sec py-4">services</h3>
           </Col> */}
+          <Row className="sec_sp">
           <Col lg="7">
             {services.map((data, i) => {
               return (
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title" style={{ fontFamily: 'Cinzel Decorative, cursive', fontSize: '48px', fontWeight: '600' }}>{data.title}</h5>
-                  <p className="service_desc" style={{ fontFamily: 'Space Mono, monospace', fontWeight: '700', fontStyle: 'italic', marginTop: '2em' }}>{data.description}</p>
+                  <p className="service_desc" style={{ fontFamily: 'Space Mono, monospace', fontWeight: '700', marginTop: '2em' }}>{data.description} </p>
+                  <div className="service_images">
+            {[1, 2, 3].map((index) => (
+              <img
+                key={index}
+                src={data.image}
+                alt=""
+                className="service_image"
+              />
+            ))}
+          </div>
                 </div>
               );
             })}

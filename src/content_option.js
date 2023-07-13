@@ -61,6 +61,7 @@ const skills = [{
 const services = [{
         title: "General Interior Design & Decor",
         description: "As an interior design company at the forefront of market trends, we have a team dedicated to all kinds of interior development projects ranging from: SPACE PLANNING, 2D/3D RENDERING, GENERAL RENOVATIONS, PROJECT MANAGEMENT, INTERIOR DECORATION, ITEM PROCUREMENT.",
+        image: "https://i.pinimg.com/236x/bb/d6/57/bbd657a34a0b1b4f12d08d3ab67803d7.jpg",
     },
     {
         title: "Residential Interior Design",
