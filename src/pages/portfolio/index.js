@@ -33,16 +33,6 @@ export const Portfolio = () => {
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title" style={{ fontFamily: 'Cinzel Decorative, cursive', fontSize: '48px', fontWeight: '600' }}>{data.title}</h5>
                   <p className="service_desc" style={{ fontFamily: 'Space Mono, monospace', fontWeight: '700', marginTop: '2em' }}>{data.description} </p>
-                  <div className="service_images">
-            {[1, 2, 3].map((index) => (
-              <img
-                key={index}
-                src={data.image}
-                alt=""
-                className="service_image"
-              />
-            ))}
-          </div>
                 </div>
               );
             })}
@@ -51,7 +41,7 @@ export const Portfolio = () => {
     </Row>
 
 
-        {/* <div className="mb-5 po_items_ho">
+        <div className="mb-5 po_items_ho">
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
@@ -63,7 +53,7 @@ export const Portfolio = () => {
               </div>
             );
           })}
-        </div> */}
+        </div>
       </Container>
     </HelmetProvider>
   );

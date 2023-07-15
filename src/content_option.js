@@ -61,45 +61,44 @@ const skills = [{
 const services = [{
         title: "General Interior Design & Decor",
         description: "As an interior design company at the forefront of market trends, we have a team dedicated to all kinds of interior development projects ranging from: SPACE PLANNING, 2D/3D RENDERING, GENERAL RENOVATIONS, PROJECT MANAGEMENT, INTERIOR DECORATION, ITEM PROCUREMENT.",
-        image: "https://i.pinimg.com/236x/bb/d6/57/bbd657a34a0b1b4f12d08d3ab67803d7.jpg",
     },
     {
         title: "Residential Interior Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "We are focused on creating spaces that are both functional and aesthetically appealing. Since we have different kinds of buildings, it makes sense that we have different kinds of interior design concepts for different kinds of people.",
     },
     {
         title: "Office Design and Set Up",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "To create an office design, good planning is essential. A well-planned office design improves productivity and contributes to the well-being of employees. Our office designs reflect your company and how you like to work, both internally and with customers.",
     },
     {
         title: "Hotel Design and Set Up",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "We specialize in creating bespoke solutions for hotels, ranging from the whole look and feel of the hotel, to beds and beddings.",
     },
     {
         title: "Floor Solutions",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "We offer you perfect solutions in interior and exterior flooring such as: TILES, MARBLES, GRANITES; WOODEN & VINYL FLOORS; CARPET RUGS; EXPOXY FLOORS; ARTIFICIAL GRASS; INTERLOCKING, STAMP FLOORS.",
     },
     {
         title: "Wall Finish",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "We enhance the interior or exterior look of your structure using wall finish solutions such as: SCREEDING, WALL NICHE, WAINSCOTING, WALL CLADDING, WALL PRINTS, 3D PANELS, WALLPAPER,DRYWALL/FALSE WALL, TV/MEDIA WALL and PAINTING.",
     },
     {
         title: "Ceiling Decor",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "We offer distinct and unique ceiling finishes that deliver that 'wow' effect while staying true to the lifestyles and budgets of our clients. Some of our ceiling finish solutions include: POP CEILING, STRETCH CEILING, PERGOLA.",
     },
     {
         title: "Window Treatment",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Window coverings can be functional, purely decorative, or strike a balance between the two, depending on your space and the amount of natural light you receive and prefer. Whether it's classic curtains, window blinds, modern coverings, Roman shades, or laidback shutters; we will source the material of your choice, produce and install it within a twinkle of an eye. We also offer a motorised feature providing you with a way to operate your blinds easily. With our motorized curtains, and blinds using remote control, you can control all your curtains and blinds easily with the click of a button.",
     },
     {
-        title: "Furniture, Cabinet and Wardrobes",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Furniture",
+        description: "We source or design, craft and fabricate our furniture with the goal of creating pieces that you'll love having in your space. Furniture such as: BEDS, SOFAS, TABLES, WARDROBES, CABINETS.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/bb/d6/57/bbd657a34a0b1b4f12d08d3ab67803d7.jpg",
+        description: "Painting",
         link: "#",
     },
     {
