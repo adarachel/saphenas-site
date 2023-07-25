@@ -97,64 +97,99 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://i.pinimg.com/236x/bb/d6/57/bbd657a34a0b1b4f12d08d3ab67803d7.jpg",
-        description: "Painting",
+        img: "https://i.pinimg.com/236x/65/2a/a4/652aa43665a79aac13772cfd34b33033.jpg",
+        description: "PAINTING",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/8b/77/76/8b77764266911eea371841fb7c648c75.jpg",
+        description: "OFFICE SET-UP",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/6f/4c/69/6f4c69a5f0cfceafbece2e4140328395.jpg",
+        description: "GENERAL HOME DECOR",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/c3/f2/f7/c3f2f7e31a807d6dcb42dbacb66e6556.jpg",
+        description: "GENERAL HOME DECOR",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/9b/62/e9/9b62e9f4ab24b2a0a25bc2dc6233f316.jpg",
+        description: "GENERAL HOME DECOR",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/53/d4/6e/53d46ee438b6796691aa8f291ed1c389.jpg",
+        description: "TILING",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/f9/0c/88/f90c88ff2dc78029340f1754d7ca7a8e.jpg",
+        description: "WOODEN & VINYL FLOORS",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/92/39/b5/9239b5fc9def6382082d5e7bd8546775.jpg",
+        description: "TV/MEDIA WALL",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/2a/fb/19/2afb195de2a0498f33a170edff34f39b.jpg",
+        description: "ARTIFICIAL GRASS",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/88/96/b8/8896b81e822311488c1341beb319f1c8.jpg",
+        description: "EPOXY FLOORS",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/a6/bc/70/a6bc70beb4cb1f9baf34722c310c120b.jpg",
+        description: "INTERLOCKING",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.pinimg.com/236x/b2/f1/c2/b2f1c289a5782ef3df9b73f9b745dbb8.jpg",
+        description: "WALL PRINTS",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/f5/17/a9/f517a9bdf471cb88cf2f790f346178af.jpg",
+        description: "STRETCH CEILING",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/17/e0/35/17e0357c9e86da18f926c7ef3963d872.jpg",
+        description: "P O P CEILING",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/91/d8/45/91d84561477aa489e0d57e10fbca603c.jpg",
+        description: "WALLPAPER",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/e3/06/0d/e3060de220b4651c79343c916a87112c.jpg",
+        description: "WALL FINISH",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/44/07/60/44076029025821b1664a7cf30b33518e.jpg",
+        description: "3D PANEL",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/af/44/24/af44246fc13dbfd384c0ed12e5601f8c.jpg",
+        description: "WALL NICHE",
+        link: "#",
+    },
+    {
+        img: "https://i.pinimg.com/236x/5b/fb/f3/5bfbf3ad0f3c780addd660763007280e.jpg",
+        description: "THANK YOU FOR VISTING OUR WEBSITE!",
         link: "#",
     },
 ];
